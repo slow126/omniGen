@@ -164,3 +164,4 @@ cython_debug/
 # Ignore weights and logs
 .safetensors
 logs/
+flux_vae/diffusion_pytorch_model.safetensors
